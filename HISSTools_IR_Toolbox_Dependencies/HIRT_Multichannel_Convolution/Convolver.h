@@ -4,6 +4,7 @@
 #include "MemorySwap.h"
 #include "NToMonoConvolve.h"
 #include "ConvolveErrors.h"
+#include "ConvolveSIMD.h"
 
 #include <cstdint>
 #include <vector>
